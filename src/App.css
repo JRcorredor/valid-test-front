@@ -1,0 +1,21 @@
+.linkStyle {
+  background-color: #CFDEEB;
+  box-shadow: 0 5px 0 #4A7EAB;
+  color: black;
+  padding: 0.2em 0.5em;
+  position: relative;
+  text-decoration: none;
+  text-transform: uppercase;
+  display:'flex';
+	justify-content :'space-around'
+}
+
+.Link:hover {
+  background-color: #CFDEEB;
+  cursor: pointer;
+}
+
+.Link:active {
+  box-shadow: none;
+  top: 5px;
+}
