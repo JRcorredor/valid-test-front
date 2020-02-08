@@ -1,3 +1,5 @@
+NODE VERSION 12.15.0 TENER ESA VERSION DE NODE.JS
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Julian ricardo Corredor
